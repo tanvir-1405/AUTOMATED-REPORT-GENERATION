@@ -42,4 +42,8 @@ Overall, this project demonstrates how basic file handling, simple data logic, a
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/6576cffd-8ad3-45d8-857d-e2a88ba212f4)
 
+![Image](https://github.com/user-attachments/assets/6457d0e7-6e06-46c0-b68f-2b82bf647e64)
+
+![Image](https://github.com/user-attachments/assets/b3cc6fae-6fea-452d-978b-2ff2b6077121)
